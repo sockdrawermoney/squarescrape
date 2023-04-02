@@ -1,4 +1,4 @@
-# squarescrape scrapes Squarespace to markdown
+# squarescrape scrapes Squarespace blog to markdown
 
 ## How to
 
